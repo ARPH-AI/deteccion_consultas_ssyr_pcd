@@ -1,0 +1,1 @@
+Por razones de seguridad y privacidad, los datos etiquetados no pueden ser compartidos. En esta carpeta se encuentran aquellos recursos auxiliares para la identificación de consultas de SSyR y PCD.
